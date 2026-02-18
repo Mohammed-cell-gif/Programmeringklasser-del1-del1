@@ -1,0 +1,15 @@
+C:\GitHub\Programmeringklasser-del1-del1\bin\Debug\net9.0\Programmeringklasser-del1-del1.exe
+C:\GitHub\Programmeringklasser-del1-del1\bin\Debug\net9.0\Programmeringklasser-del1-del1.deps.json
+C:\GitHub\Programmeringklasser-del1-del1\bin\Debug\net9.0\Programmeringklasser-del1-del1.runtimeconfig.json
+C:\GitHub\Programmeringklasser-del1-del1\bin\Debug\net9.0\Programmeringklasser-del1-del1.dll
+C:\GitHub\Programmeringklasser-del1-del1\bin\Debug\net9.0\Programmeringklasser-del1-del1.pdb
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.AssemblyInfoInputs.cache
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.AssemblyInfo.cs
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.csproj.CoreCompileInputs.cache
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.sourcelink.json
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.dll
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\refint\Programmeringklasser-del1-del1.dll
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.pdb
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\Programmeringklasser-del1-del1.genruntimeconfig.cache
+C:\GitHub\Programmeringklasser-del1-del1\obj\Debug\net9.0\ref\Programmeringklasser-del1-del1.dll

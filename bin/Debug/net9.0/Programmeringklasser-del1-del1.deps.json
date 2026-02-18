@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Programmeringklasser-del1-del1/1.0.0": {
+        "runtime": {
+          "Programmeringklasser-del1-del1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programmeringklasser-del1-del1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
